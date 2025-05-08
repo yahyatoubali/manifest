@@ -22,6 +22,8 @@
   <remote name="pixel-devices-blobs"
           fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
           revision="thirteen" />
+  
+  <remote name="pixelos" fetch="https://gitlab.com/pixelos-aosp/" />
 
   <!-- External repos -->
   <project path="external/avb" name="external_avb" remote="pixel" />
